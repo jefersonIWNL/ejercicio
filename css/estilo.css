@@ -21,3 +21,8 @@ p{
 img{
     width: 600px;
 }
+footer{
+    background-color: bisque;
+    color: white;
+    padding: 1rem;
+}
